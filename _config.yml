@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "_images/headshot.jpg"
   name             : "Daniel Stoertz"
-  pronouns         : they/them/their # example: "she/her"  
+  pronouns         : "they/them/their" # example: "she/her"  
   bio              : "Visiting Assistant Professor of Mathamatics"
   location         : # "Earth"
   employer         : "St. Olaf College"
