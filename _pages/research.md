@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 ![Dendrite](../images/Dendrite.png)
-![BabyM](../images/BabyM.png)
 
-<img src="../images/Dendrite.png" alt="Dendrite">
+Research description goes here.
 
-Texttexttext
+## Undegraduate Research Projects
+
+Describe undergraduate research projects here.
