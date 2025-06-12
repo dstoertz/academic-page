@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#Include a cool picture.
+![BabyM](/images/BabyM.png)
 
 I am a Visiting Assistant Professor of Mathematics at St. Olaf College in Northfield, MN.
 
@@ -17,7 +17,3 @@ As a researcher, something something Complex Dynamics and Quasiregular Dynamics,
 
 The fractal images on these pages were generated using [Dynamics Explorer](https://sourceforge.net/projects/detool/) (a.k.a. detool), created by Brian and Suzanne Boyd.
 
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
