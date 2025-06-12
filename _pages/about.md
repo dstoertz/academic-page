@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![BabyM](/images/BabyM.png)
+![BabyM](./images/BabyM.png)
 
 I am a Visiting Assistant Professor of Mathematics at St. Olaf College in Northfield, MN.
 
